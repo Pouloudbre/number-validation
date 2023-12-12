@@ -19,7 +19,7 @@ You can launch the project from your favorite IDE when the POM file is detected.
 
 ## Usage
 
-You can type the number you want to test in command line. The proompt will ask it to you.
+You can type the number you want to test in command line. The prompt will ask it to you.
 
 ## Tests
 
